@@ -1,0 +1,156 @@
+PATHINT_1995_STM-CODE:
+total 204
+-rwxr-xr-x  1 root root   273 Apr 10  2010 00rerun
+-rwxr-xr-x  1 root root  1883 Apr 13  2010 0readme
+drwxr-xr-x  2 root root  4096 Jun  3  1998 FIGS
+-rwxr-xr-x  1 root root 12240 Apr 19  2010 Head.h
+-rwxr-xr-x  1 root root   654 Apr 20  2010 Makefile
+-rwxr-xr-x  1 root root  1911 Jan 30 08:51 PATHINT-LICENSE
+drwxr-xr-x 10 root root  4096 Sep  3  2013 RUNS
+-rwxr-xr-x  1 root root 17404 Apr 20  2010 boundary.c
+-rwxr-xr-x  1 root root   565 Apr 19  2010 dat_smni
+-rwxr-xr-x  1 root root   565 Apr 19  2010 dat_smni_nonvis
+-rwxr-xr-x  1 root root   564 Apr 19  2010 dat_smni_vis
+-rwxr-xr-x  1 root root  8717 Apr 20  2010 evolve.c
+-rwxr-xr-x  1 root root  2207 Apr 10  2010 finemesh.c
+-rwxr-xr-x  1 root root  2235 Apr 22  2010 gB-bw
+-rwxr-xr-x  1 root root  2262 Apr 22  2010 gBosc-bw
+-rwxr-xr-x  1 root root  2262 Apr 22  2010 gBreg-bw
+-rwxr-xr-x  1 root root  2169 Apr 19  2010 gnuplot_BC
+-rwxr-xr-x  1 root root  2186 Apr 19  2010 gnuplot_BCV
+-rwxr-xr-x  1 root root  2169 Apr 19  2010 gnuplot_EC
+-rwxr-xr-x  1 root root  2169 Apr 19  2010 gnuplot_IC
+-rwxr-xr-x  1 root root  4114 Apr 20  2010 index.c
+-rwxr-xr-x  1 root root  7777 Apr 20  2010 lagrang.c
+-rwxr-xr-x  1 root root   171 Apr 14  2010 low_high_splot
+-rwxr-xr-x  1 root root 10566 Apr 20  2010 main.c
+-rwxr-xr-x  1 root root  5647 Apr 20  2010 prntinfo.c
+-rwxr-xr-x  1 root root 12131 Apr 21  2010 smni.c
+-rwxr-xr-x  1 root root   987 Apr 19  2010 timeshow.c
+-rwxr-xr-x  1 root root  8842 Apr 13  2010 variable.c
+-rwxr-xr-x  1 root root   680 Apr 22  2010 xB
+-rwxr-xr-x  1 root root   740 Apr 22  2010 xBosc
+-rwxr-xr-x  1 root root   740 Apr 22  2010 xBreg
+-rwxr-xr-x  1 root root   653 Apr 19  2010 xgnuplot
+-rwxr-xr-x  1 root root   556 Apr 11  2010 xrcs_smni
+-rwxr-xr-x  1 root root  1457 Apr 20  2010 xsmni
+
+PATHINT_1995_STM-CODE/FIGS:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS:
+total 36
+drwxr-xr-x 2 root root 4096 Apr 19  2010 BC
+drwxr-xr-x 2 root root 4096 Apr 10  2010 BCV
+drwxr-xr-x 2 root root 4096 Apr 10  2010 EC
+drwxr-xr-x 2 root root 4096 Sep  3  2013 FIGS
+drwxr-xr-x 2 root root 4096 Apr 10  2010 IC
+drwxr-xr-x 7 root root 4096 Sep  3  2013 RUNS_EXT
+drwxr-xr-x 7 root root 4096 Sep  3  2013 RUNS_IMPLICIT
+drwxr-xr-x 7 root root 4096 Sep  3  2013 RUNS_INT
+-rwxr-xr-x 1 root root  653 Apr 19  2010 xgnuplot
+
+PATHINT_1995_STM-CODE/RUNS/BC:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/BCV:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/EC:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/FIGS:
+total 16
+-rwxr-xr-x 1 root root 2169 Apr 19  2010 gnuplot_BC
+-rwxr-xr-x 1 root root 2186 Apr 19  2010 gnuplot_BCV
+-rwxr-xr-x 1 root root 2169 Apr 19  2010 gnuplot_EC
+-rwxr-xr-x 1 root root 2169 Apr 19  2010 gnuplot_IC
+
+PATHINT_1995_STM-CODE/RUNS/IC:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_EXT:
+total 28
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 BC
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 BCV
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 EC
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 FIGS
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 IC
+-rwxr-xr-x 1 root root  740 Apr 22  2010 xBreg
+-rwxr-xr-x 1 root root  712 Apr 21  2010 xgnuplot
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_EXT/BC:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_EXT/BCV:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_EXT/EC:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_EXT/FIGS:
+total 20
+-rwxr-xr-x 1 root root 2262 Apr 22  2010 gBreg-bw
+-rwxr-xr-x 1 root root 2196 Apr 21  2010 gnuplot_BC
+-rwxr-xr-x 1 root root 2213 Apr 21  2010 gnuplot_BCV
+-rwxr-xr-x 1 root root 2196 Apr 21  2010 gnuplot_EC
+-rwxr-xr-x 1 root root 2196 Apr 21  2010 gnuplot_IC
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_EXT/IC:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_IMPLICIT:
+total 28
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 BC
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 BCV
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 EC
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 FIGS
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 IC
+-rwxr-xr-x 1 root root  680 Apr 22  2010 xB
+-rwxr-xr-x 1 root root  653 Apr 19  2010 xgnuplot
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_IMPLICIT/BC:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_IMPLICIT/BCV:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_IMPLICIT/EC:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_IMPLICIT/FIGS:
+total 4
+-rwxr-xr-x 1 root root 2235 Apr 22  2010 gB-bw
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_IMPLICIT/IC:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_INT:
+total 28
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 BC
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 BCV
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 EC
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 FIGS
+drwxr-xr-x 2 root root 4096 Jan 30 09:02 IC
+-rwxr-xr-x 1 root root  740 Apr 22  2010 xBosc
+-rwxr-xr-x 1 root root  713 Apr 20  2010 xgnuplot
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_INT/BC:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_INT/BCV:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_INT/EC:
+total 0
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_INT/FIGS:
+total 20
+-rwxr-xr-x 1 root root 2262 Apr 22  2010 gBosc-bw
+-rwxr-xr-x 1 root root 2196 Apr 20  2010 gnuplot_BC
+-rwxr-xr-x 1 root root 2213 Apr 20  2010 gnuplot_BCV
+-rwxr-xr-x 1 root root 2196 Apr 20  2010 gnuplot_EC
+-rwxr-xr-x 1 root root 2196 Apr 20  2010 gnuplot_IC
+
+PATHINT_1995_STM-CODE/RUNS/RUNS_INT/IC:
+total 0
